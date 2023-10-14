@@ -58,3 +58,19 @@ I found that each sorting algorithm has its strengths and weaknesses, making it 
 
 In conclusion, Lab 1 expanded my knowledge of sorting and searching algorithms, object comparison, and the importance of user interaction in program design. These skills are fundamental for any programmer and will undoubtedly prove valuable in future projects. 🚀
 
+
+## Learning Resources
+
+Here are some additional resources that I found helpful during my learning journey:
+
+- Bubble Sort [Bubble Sort in Plain English](https://youtu.be/uJLwnsLn0_Q?si=WC2gzM7OGI1I6K7o)
+- Quick Sort [Learn Quick Sort in 13 minutes](https://youtu.be/Vtckgz38QHs?si=jZmJvsNAgxYgoBtq)
+- Insertion Sort [Insertion Sort Algorithm Made Simple](https://youtu.be/nKzEJWbkPbQ?si=6Z1h-w0fh6MdJJsr)
+- Selection Sort [Selection Sort Tutorial in Java: The Snail's Guide to Sorting](https://www.youtube.com/watch?v=dsqsnngsoD8)
+
+
+These resources provided valuable insights and further explanations on the topics covered in this document.
+
+**Author:** Roselyn Chan
+
+*Document assisted by ChatGPT, a language model developed by OpenAI.*

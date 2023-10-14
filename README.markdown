@@ -10,10 +10,6 @@ During Exercise 1, the Student class was implemented, and both the Comparable an
 * Implementing the Comparator interface gave me the flexibility to define multiple ways of comparing objects, which is useful when dealing with different criteria.
 ## Exercise 2: Binary Search 🔍
 
-Implementing the `binarySearch` method in Exercise 2 was a valuable experience. This method can efficiently search for a target element in a sorted list of integers. It reinforced the importance of searching algorithms and how optimization can significantly impact program efficiency.
-
-## Exercise 2:  binarySearch for an integer in a sorted list of integer objects
-
 **Key Takeaways:**
 
 * Binary search is a powerful algorithm for finding elements in sorted lists. It divides the search range in half at each step, resulting in fast and efficient searches.
